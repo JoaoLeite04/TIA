@@ -17,7 +17,7 @@ result :-
 % Condição de paragem: Quando já não consegue deduzir mais nada
 result :- 
    nl, write('----------------------------------------------------'), nl,
-   write('Triagem Concluída. Por favor, siga as indicações dadas.'), nl,
+   write('Triagem Concluida. Por favor, siga as indicacoes dadas.'), nl,
    write('----------------------------------------------------'), nl.          
 
 % 3. Lógica para encontrar um NOVO facto
