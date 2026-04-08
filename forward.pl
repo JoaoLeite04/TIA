@@ -1,3 +1,5 @@
+% Foward: Motor de Inferência (Forward Chaining) para Triagem SNS24
+
 % 1. Definição de Operadores (Para escrever as regras em linguagem natural)
 :- op( 800, fx, if).
 :- op( 700, xfx, then).

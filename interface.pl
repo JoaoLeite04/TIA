@@ -1,3 +1,5 @@
+% Interface: Interação com o utente e recolha de factos.
+
 :- dynamic(fact/1).
 :- dynamic(utente_nome/1).
 

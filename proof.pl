@@ -1,3 +1,5 @@
+% Proof: Motor de Inferência (Backward Chaining) com Explicação
+
 % 1. Definição de Operadores
 
 :- op( 800, fx, if).
