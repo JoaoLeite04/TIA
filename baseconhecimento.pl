@@ -8,30 +8,18 @@
 
 
 % EMERGÊNCIA – Compromisso ABC
-if alteracao_consciencia then emergencia.
-if dificuldade_respiratoria then emergencia.
-if hemorragia_abundante then emergencia.
-if corrosiva then emergencia.
-if convulsoes then emergencia.
+if alteracao_consciencia then disposicao(emergencia).
+if dificuldade_respiratoria then disposicao(emergencia).
+if hemorragia_abundante then disposicao(emergencia).
+if corrosiva then disposicao(emergencia).
+if convulsoes then disposicao(emergencia).
 
 % URGÊNCIA HOSPITALAR – Sintomas moderados
-if nauseas then urgencia.
-if vomitos then urgencia.
-if irritacao_cutanea then urgencia.
-if tonturas then urgencia.
+if nauseas then disposicao(urgencia).
+if vomitos then disposicao(urgencia).
+if irritacao_cutanea then disposicao(urgencia).
+if tonturas then disposicao(urgencia).
 
 
 % AUTOCUIDADO – Assintomático + baixa toxicidade
-if baixa_toxicidade and assintomatico then autocuidado.
-
-
-% Perfis finais 
-
-perfil(emergencia, _) :-
-    write('Encaminhamento: EMERGÊNCIA HOSPITALAR – Contactar 112 e CIAV.').
-
-perfil(urgencia, _) :-
-    write('Encaminhamento: URGÊNCIA HOSPITALAR – Consultar CIAV.').
-
-perfil(autocuidado, _) :-
-    write('Encaminhamento: AUTOCUIDADO – Observação domiciliária.').
+if baixa_toxicidade and assintomatico then disposicao(autocuidado).
