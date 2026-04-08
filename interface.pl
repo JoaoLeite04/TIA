@@ -4,7 +4,7 @@
 :- dynamic(utente_nome/1).
 
 % Carrega os outros ficheiros (ajusta os nomes se necessário)
-:- [forward, basedados, proof, baseconhecimento].
+:- [forward, base_dados, proof, baseconhecimento].
 
 % -------------------------------------------------------------------
 % 1. MENU PRINCIPAL

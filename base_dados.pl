@@ -1,5 +1,9 @@
 % BASE DE DADOS – INTOXICAÇÕES E ENVENENAMENTOS
 
+:- dynamic fact/1.
+:- dynamic utente_nome/1.
+:- dynamic variavel/1.
+
 % ----- Sintomas críticos (ABC) -----
 sintoma_possivel(alteracao_consciencia).
 sintoma_possivel(dificuldade_respiratoria).
