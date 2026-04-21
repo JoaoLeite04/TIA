@@ -1,2 +1,9 @@
 # TIA
 PROJETO TIA
+
+PARA CORRER O PROJETO:
+1 - ABRIR TERMINAL
+2 - CORRER O COMANDO - & "C:\Program Files\swipl\bin\swipl.exe"
+3 - CORRER O COMANDO - [main].
+4 - INICIAR A TRIAGEM
+

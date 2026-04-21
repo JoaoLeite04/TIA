@@ -1,0 +1,111 @@
+/* Cores base e Tipografia */
+:root {
+    --sns-blue: #005a9c;
+    --sns-light: #e6f0f9;
+    --text-color: #333;
+    --bg-color: #f4f7f6;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+header {
+    background-color: var(--sns-blue);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+header h1 { margin: 0; font-size: 24px; }
+header p { margin: 5px 0 0 0; font-size: 14px; opacity: 0.8; }
+
+/* Contentor Central */
+main {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.hidden { display: none !important; }
+
+h2 { margin-top: 0; color: var(--sns-blue); }
+.subtitle { color: #666; margin-bottom: 20px; font-size: 14px; }
+
+/* Checkboxes dos Sintomas */
+.checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 25px;
+}
+
+.symptom-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+    background-color: var(--sns-light);
+    border-radius: 6px;
+    transition: 0.2s;
+}
+
+.symptom-item:hover { background-color: #d1e3f3; }
+
+.symptom-item input[type="checkbox"] {
+    margin-top: 4px;
+    margin-right: 10px;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.symptom-item label { cursor: pointer; font-size: 15px; line-height: 1.4; width: 100%;}
+
+/* Botões */
+button {
+    background-color: var(--sns-blue);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+    width: 100%;
+}
+
+button:hover { background-color: #004080; }
+
+/* Caixa de Resultados (As cores da triagem de Manchester) */
+.result-box {
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.result-box h3 { margin: 0; font-size: 22px; }
+.result-box p { margin: 5px 0 15px 0; font-weight: bold; }
+.result-box hr { border: 0; height: 1px; background: rgba(255,255,255,0.3); margin-bottom: 15px; }
+.result-box ul { margin: 0; padding-left: 20px; }
+.result-box li { margin-bottom: 8px; }
+
+/* Classes Dinâmicas (Atribuídas pelo JavaScript) */
+.bg-red { background-color: #d32f2f; }
+.bg-orange { background-color: #f57c00; }
+.bg-yellow { background-color: #fbc02d; color: #333; }
+.bg-yellow hr { background: rgba(0,0,0,0.2); }
+.bg-green { background-color: #388e3c; }

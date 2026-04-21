@@ -11,7 +11,7 @@
 % 1. TIPO DE CASO
 % Mantemos esta estrutura caso o professor queira testar a modularidade
 % -------------------------------------------------------------------
-case_type_question('Intoxicações e Envenenamentos', 'O motivo do contacto está relacionado com a ingestão, inalação ou contacto com substâncias tóxicas, medicamentos ou drogas?').
+case_type_question('intoxicacoes', 'O motivo do contacto está relacionado com a ingestão, inalação ou contacto com substâncias tóxicas, medicamentos ou drogas?').
 
 case_types(Types) :-
     findall(Type, case_type_question(Type, _), Types).
@@ -19,7 +19,7 @@ case_types(Types) :-
 % -------------------------------------------------------------------
 % 2. LISTA DE SINTOMAS POR GRAVIDADE (Algoritmo SNS24)
 % -------------------------------------------------------------------
-all_symptoms('Intoxicações e Envenenamentos', [
+all_symptoms('intoxicacoes', [
     obstrucao_vias_aereas,          % EMERGÊNCIA (Vermelho)
     respiracao_inadequada,          % EMERGÊNCIA (Vermelho)
     convulsoes,                     % EMERGÊNCIA (Vermelho)
@@ -54,7 +54,7 @@ symptom_question(assintomatico_substancia_segura, 'A pessoa sente-se bem e a sub
 % -------------------------------------------------------------------
 
 % EMERGÊNCIA (VERMELHO - Acionar INEM/112)
-triage_rule('Intoxicações e Envenenamentos', red, Symptoms, CF) :-
+triage_rule('intoxicacoes', red, Symptoms, CF) :-
     (member(obstrucao_vias_aereas, Symptoms) -> CF1 = 0.95 ; CF1 = 0),
     (member(respiracao_inadequada, Symptoms) -> CF2 = 0.95 ; CF2 = 0),
     (member(convulsoes, Symptoms) -> CF3 = 0.9 ; CF3 = 0),
@@ -62,27 +62,27 @@ triage_rule('Intoxicações e Envenenamentos', red, Symptoms, CF) :-
     combine_cf([CF1, CF2, CF3, CF4], CF).
 
 % MUITO URGENTE (LARANJA - Contacto imediato CIAV / Urgência Hospitalar)
-triage_rule('Intoxicações e Envenenamentos', orange, Symptoms, CF) :-
-    \+ triage_rule('Intoxicações e Envenenamentos', red, Symptoms, _), % Só avalia se não for vermelho
+triage_rule('intoxicacoes', orange, Symptoms, CF) :-
+    \+ triage_rule('intoxicacoes', red, Symptoms, _), % Só avalia se não for vermelho
     (member(substancia_corrosiva, Symptoms) -> CF1 = 0.9 ; CF1 = 0),
     (member(sintomas_neurologicos_agudos, Symptoms) -> CF2 = 0.85 ; CF2 = 0),
     (member(dor_intensa, Symptoms) -> CF3 = 0.8 ; CF3 = 0),
     combine_cf([CF1, CF2, CF3], CF).
 
 % URGENTE (AMARELO - Avaliação Médica / CIAV)
-triage_rule('Intoxicações e Envenenamentos', yellow, Symptoms, CF) :-
-    \+ triage_rule('Intoxicações e Envenenamentos', red, Symptoms, _),
-    \+ triage_rule('Intoxicações e Envenenamentos', orange, Symptoms, _),
+triage_rule('intoxicacoes', yellow, Symptoms, CF) :-
+    \+ triage_rule('intoxicacoes', red, Symptoms, _),
+    \+ triage_rule('intoxicacoes', orange, Symptoms, _),
     (member(risco_autoagressao, Symptoms) -> CF1 = 0.8 ; CF1 = 0),
     (member(vomitos_persistentes, Symptoms) -> CF2 = 0.7 ; CF2 = 0),
     (member(dor_moderada, Symptoms) -> CF3 = 0.65 ; CF3 = 0),
     combine_cf([CF1, CF2, CF3], CF).
 
 % POUCO URGENTE / NÃO URGENTE (VERDE / AZUL - Autocuidado e Vigilância)
-triage_rule('Intoxicações e Envenenamentos', green, Symptoms, CF) :-
-    \+ triage_rule('Intoxicações e Envenenamentos', red, Symptoms, _),
-    \+ triage_rule('Intoxicações e Envenenamentos', orange, Symptoms, _),
-    \+ triage_rule('Intoxicações e Envenenamentos', yellow, Symptoms, _),
+triage_rule('intoxicacoes', green, Symptoms, CF) :-
+    \+ triage_rule('intoxicacoes', red, Symptoms, _),
+    \+ triage_rule('intoxicacoes', orange, Symptoms, _),
+    \+ triage_rule('intoxicacoes', yellow, Symptoms, _),
     (member(assintomatico_substancia_segura, Symptoms) -> CF1 = 0.8 ; CF1 = 0),
     combine_cf([CF1], CF).
 
