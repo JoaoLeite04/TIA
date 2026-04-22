@@ -5,6 +5,7 @@
 % ===================================================================
 
 :- module(triage, [evaluate_triage/5]).
+:- set_prolog_flag(encoding, utf8).
 :- use_module(knowledge, [triage_rule/4, rule_explanation/3]).
 
 % evaluate_triage(+TipoCaso, +Sintomas, -Cor, -CF, -Explicacao)

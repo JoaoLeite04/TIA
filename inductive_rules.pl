@@ -5,6 +5,7 @@
 % ===================================================================
 
 :- module(inductive_rules, [inductive_triage/2, important_symptoms/1]).
+:- set_prolog_flag(encoding, utf8).
 
 % -------------------------------------------------------------------
 % 1. MOTOR DE TRIAGEM INDUTIVA

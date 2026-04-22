@@ -5,14 +5,9 @@
 % ===================================================================
 
 :- module(interface, [start_consultation/0]).
+:- set_prolog_flag(encoding, utf8).
 :- use_module(knowledge, [case_types/1, all_symptoms/2, symptom_question/2, case_type_question/2, triage_rule/4, rule_explanation/3]).
 :- use_module(triage, [evaluate_triage/5]).
-
-% Bibliotecas para o Servidor Web (HTTP)
-:- use_module(library(http/thread_httpd)).
-:- use_module(library(http/http_dispatch)).
-:- use_module(library(http/http_files)).
-:- use_module(library(http/http_json)).
 
 % ===================================================================
 % 1. INTERFACE DE TERMINAL (LINHA DE COMANDOS)

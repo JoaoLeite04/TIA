@@ -9,6 +9,8 @@
 :- use_module(triage).
 :- use_module(interface).
 
+:- set_prolog_flag(encoding, utf8).
+
 % 2. Cria um comando amigável para arrancar manualmente (se necessário)
 iniciar :-
     interface:start_consultation.

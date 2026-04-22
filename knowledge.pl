@@ -6,6 +6,7 @@
     case_types/1, 
     case_type_question/2
 ]).
+:- set_prolog_flag(encoding, utf8).
 
 % -------------------------------------------------------------------
 % 1. TIPO DE CASO
