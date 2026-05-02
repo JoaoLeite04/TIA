@@ -1,0 +1,1001 @@
+obstrucao_vias_aereas,respiracao_inadequada,convulsoes,inconsciencia,substancia_corrosiva,sintomas_neurologicos_agudos,dor_intensa,risco_autoagressao,vomitos_persistentes,dor_moderada,assintomatico_substancia_segura,Target
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,1,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,1,0,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,0,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,1,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,0,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,1,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,0,0,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,1,0,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,1,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,0,0,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,1,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,0,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,0,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+1,1,1,1,0,0,1,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,1,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+1,1,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,1,0,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,1,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,1,1,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,0,1,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,1,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+1,1,0,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+1,1,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+1,0,1,0,0,0,0,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,1,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,1,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+1,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,1,0,1,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,0,0,Avaliação Médica / CIAV
+0,0,0,0,1,1,0,0,1,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,1,1,0,0,0,1,0,1,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,0,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+0,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,0,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,0,Autocuidado e Vigilância
+0,0,0,0,0,0,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,0,0,0,0,1,1,0,Avaliação Médica / CIAV
+0,0,0,0,0,1,0,1,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+0,0,0,0,1,0,0,0,0,0,0,Contacto imediato CIAV / Urgência Hospitalar
+1,1,0,0,0,0,1,0,0,0,0,Acionar INEM/112
+1,0,0,0,0,0,0,0,0,0,0,Acionar INEM/112
+1,0,1,0,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,0,1,0,Avaliação Médica / CIAV
+1,1,0,1,0,0,1,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,0,0,1,0,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,1,1,0,0,0,0,0,0,0,Acionar INEM/112
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,0,0,0,0,0,0,0,0,1,1,Autocuidado e Vigilância
+0,0,0,0,0,0,1,0,1,0,0,Avaliação Médica / CIAV
+0,1,1,0,0,0,0,0,0,0,0,Acionar INEM/112
