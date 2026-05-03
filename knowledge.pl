@@ -10,7 +10,6 @@
 
 % -------------------------------------------------------------------
 % 1. TIPO DE CASO
-% Mantemos esta estrutura caso o professor queira testar a modularidade
 % -------------------------------------------------------------------
 case_type_question('intoxicacoes', 'O motivo do contacto está relacionado com a ingestão, inalação ou contacto com substâncias tóxicas, medicamentos ou drogas?').
 
